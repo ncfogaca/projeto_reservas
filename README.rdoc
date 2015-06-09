@@ -1,6 +1,7 @@
 == README
 
-Escopo do Projeto
+**Escopo do Projeto**
+
 Criação de uma webpage para reserva de quartos de Hotéis.
 O sistema web de reservas de hotel permite a pesquisa de locais e hotéis e reservas através da exposição das características principais de cada estabelecimento como tipos de quartos, serviços disponíveis, valores e datas.
 
