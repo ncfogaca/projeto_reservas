@@ -15,21 +15,21 @@ Nesta fase do projeto serão definidos os Diagramas de Casos, o Diagrama de Nave
 
 2- {Diagrama de Navegação}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/mapadosite.png]
 
-3- Protótipos de Telas:
+3- Protótipos de Telas
 
-  3.1- {Página Inicial}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/PgInicial_ReservadeHoteis.png]
+  {Página Inicial}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/PgInicial_ReservadeHoteis.png]
   
-  3.2- {Pesquisa}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/busca.png]
+  {Pesquisa}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/busca.png]
   
-  3.3- {Favoritos}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/Favoritos.png]
+  {Favoritos}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/Favoritos.png]
   
-  3.4- {Login}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/login.png]
+  {Login}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/login.png]
   
-  3.5- {Detalhes de Hotel}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/detalhes.png]
+  {Detalhes de Hotel}[https://github.com/dieniffer/projeto_reservas/blob/master/docs/Prototipos/detalhes.png]
   
 
 
-=== Fase 2:
+
 
 
 
