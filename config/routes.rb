@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :hotels
+  resources :locals
   resources :users
   get 'home/index'
 
